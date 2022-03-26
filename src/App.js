@@ -11,7 +11,7 @@ const Input = styled.input`
   margin: 30px auto;
   display: block;
   width: 300px;
-  background-color: seashell;
+  background-color: blue;
   height: 50px;
   color: black;
   &::placeholder {
